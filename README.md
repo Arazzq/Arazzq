@@ -1,3 +1,2 @@
-### Salamlar hamınıza 👋
-#Mənim adım Arazdır
-#2021.11.10 Bu aydandır githubda işləməyə başlamışam
+<h1 align="center">Salam 👋, Mən Araz</h1>
+<h3 align="center">Bir hobbi kimi bu işləri öyrənməyə başlamışam.</h3>
